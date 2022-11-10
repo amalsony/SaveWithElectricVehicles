@@ -15,6 +15,7 @@ export default function Calculator() {
           <a
             target={"_blank"}
             href="https://github.com/amalsony/SaveWithElectricVehicles"
+            rel="noopener"
             className={classes.link}
           >
             GitHub
