@@ -19,7 +19,7 @@ export default function Calculator() {
           >
             GitHub
           </a>
-          .
+          . MIT License.
         </p>
       </div>
     </div>
